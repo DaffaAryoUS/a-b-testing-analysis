@@ -1,4 +1,4 @@
-# **Beyond the Click Trap: Evaluating Platform Optimization and Funnel Friction Using Two-Proportion Z-Test 🎯📊**
+# **Identifying Funnel Leakage in A/B Testing📊**
 
 ## 📌 Project Overview
 
